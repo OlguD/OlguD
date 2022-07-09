@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlguD
-- 🌱 I’m currently learning Python
+- 🌱 I’m trying to be a full stack dev.
 - 📫 How to reach me   =>gmail : olgudegirmencii@gmail.com
 
 <!---
