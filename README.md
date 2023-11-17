@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlguD
-- 🌱 I’m currently learning Python <3
+- 🌱 I’m currently working on deep learning
 - 📫 How to reach me   =>gmail : olgudegirmenci34@gmail.com
 
 <!---
