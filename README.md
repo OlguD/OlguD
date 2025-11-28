@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlguD
+- 👋 Hi, I’m Olgu Değirmenci - @OlguD
 <!--- - 🌱 I’m currently working on something good --->
 - 📫 How to reach me   =>gmail : olgudegirmenci34@gmail.com
 
